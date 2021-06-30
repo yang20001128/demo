@@ -1,0 +1,19 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1624858083735/work
+certifi==2021.5.30
+chardet==4.0.0
+coreapi==2.3.3
+coreschema==0.0.4
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1622633222759/work
+djangorestframework==3.12.4
+idna==2.10
+itypes==1.2.0
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
+PyYAML==5.4.1
+requests==2.25.1
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1602142927465/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
+uritemplate==3.0.1
+urllib3==1.26.6
+wincertstore==0.2
